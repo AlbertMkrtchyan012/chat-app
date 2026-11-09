@@ -1,0 +1,17 @@
+{
+  "name": "chat-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "concurrently": "^10.0.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "socket.io-client": "^4.8.4",
+    "vite": "^8.3.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.2.1"
+  }
+}
